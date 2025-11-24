@@ -7,7 +7,13 @@ This dataset represent Amazon Diwali India sales for the year 2025. It is an e-c
 * Customer Retention
 * Customer satisfactions.
 
+## DATA SOURCE
+Dataset can be found in Kaggle [download](https://www.kaggle.com/datasets/anandshaw2001/amazon-product-sales-2025) 
 
+
+## TOOL USED
+  * Python (Liberies like Pandas, Numpy, Matplotlib, Seaborn, Gridspec)
+  * Jupyter Nootbook
 
 ## KEY INSIGHTS                                            
 
