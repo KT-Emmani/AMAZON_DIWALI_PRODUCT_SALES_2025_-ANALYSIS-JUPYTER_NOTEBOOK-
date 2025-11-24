@@ -15,6 +15,15 @@ Dataset can be found in Kaggle [download](https://www.kaggle.com/datasets/anands
   * Python (Liberies like Pandas, Numpy, Matplotlib, Seaborn, Gridspec)
   * Jupyter Nootbook
 
+## DATA CLEANING
+
+Ensuring accuracy, quality and reliability of results Data cleaning is a crucial step in the data analytical process.
+
+  * The dataset contained no null or missing values.
+  * No duplicated values were found.
+  * Since the dataset was for Amazon sales in only India, the Country column was not necessary for the analyses.
+  * Created some new columns for the Months, Days, Repeated Customers, Review Rating Bins (Groupings), Customer Lifetime Value (Customer Total Spending).
+
 ## KEY INSIGHTS                                            
 
 
