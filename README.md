@@ -12,7 +12,7 @@ Dataset can be found in Kaggle [download](https://www.kaggle.com/datasets/anands
 
 
 ## TOOL USED
-  * Python (Liberies like Pandas, Numpy, Matplotlib, Seaborn, Gridspec)
+  * Python (Libraries like Pandas, Numpy, Matplotlib, Seaborn, Gridspec)
   * Jupyter Nootbook
 
 ## DATA CLEANING
